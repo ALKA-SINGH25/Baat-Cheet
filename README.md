@@ -30,11 +30,7 @@ BAAT-CHEET is a real-time chat application built using the MERN (MongoDB, Expres
 - Socket.IO: A library that enables real-time, bidirectional and event-based communication between web clients and servers.
 - JWT (JSON Web Tokens): Used for secure user authentication.
 
-## Demo
 
-https://www.loom.com/share/d8434c7ef73d4499b71b3a917565fe65?sid=79c17560-8b03-4105-8d2f-b1b26e56d0db
-
-https://www.loom.com/share/2b98f1570dc8409fbc01b1c9f2e4fe17?sid=b363d7f9-b55c-4b82-b6dd-712a019af321
 
 
 
